@@ -9,7 +9,7 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 1b651f0ee1d65f5b057e7bdc5f2f07efa7c45e4a
+source-git-commit: eff94dd57d933976c0fd0a303696a54048e4ddc0
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -30,4 +30,4 @@ I följande video nedan beskrivs hur du gör:
 ## Ytterligare resurser
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
-   * [Om rapporter från Journey Orchestration](https://docs.adobe.com/content/help/en/journeys/using/journey-reports/about-journey-reports.html)
+* [Om rapporter från Journey Orchestration](https://docs.adobe.com/content/help/en/journeys/using/journey-reports/about-journey-reports.html)
