@@ -1,6 +1,6 @@
 ---
 title: Konfigurera direktuppspelningshändelser för Adobe Journey Orchestration
-description: I den här videon förklaras hur du konfigurerar XDM-scheman och datauppsättningar för guidehändelser för resan, definierar en händelse i resan och konfigurerar källsystem för att direktuppspela händelser
+description: I den här videon förklaras hur du konfigurerar XDM-scheman och datauppsättningar för Journey Orchestration-händelser, definierar en händelse i Journey Orchestration och konfigurerar källsystem för att direktuppspela händelser
 feature: Journey Orchestration
 topics: Events
 kt: 3731
@@ -9,7 +9,7 @@ audience: developer
 doc-type: video
 activity: setup
 translation-type: tm+mt
-source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
+source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -27,6 +27,7 @@ ht-degree: 0%
 [!UICONTROL Journey Orchestration] händelser [!UICONTROL XDM experience events] som skickas till Adobe Experience Platform via [!UICONTROL streaming ingestion].
 
 >[!NOTE]
+>
 >Du måste känna till:
 >
 >* [Experience Data Model (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
@@ -34,12 +35,10 @@ ht-degree: 0%
 >* [Inmatning av strömmande data](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
-För att förstå exemplen som används i videon bör du också bekanta dig med följande Adobe Experience Platform Services:
+För att förstå exemplen som används i videon bör du också bekanta dig med följande Adobe Experience Platform-tjänster:
 >
->* [Adobe Experience Platform Mobile SDK - lansering](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+>* [Adobe Experience Platform Mobile SDK - start](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Platstjänst för Adobe Experience Platform](https://docs.adobe.com/content/help/en/places/using/home.html)
->
-
 
 
 ## Konfigurera [!UICONTROL streaming events]
@@ -54,5 +53,5 @@ I följande video förklaras hur du gör:
 
 ## Ytterligare resurser
 
-* [Hjälpcenter](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)för resesamordning:
+* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
    * [Om händelser](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)
