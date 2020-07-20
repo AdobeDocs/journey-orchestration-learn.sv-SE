@@ -9,10 +9,10 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: df5c132a8e66a9e9d2c8e7a2cf299a6a6a3527b7
+source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 # Rapportera steghändelser till [!UICONTROL Adobe Experience Platform ]
 
 [!UICONTROL Journey Orchestration] skickar automatiskt data om reseprestanda till användaren så [!UICONTROL Adobe Experience Platform] att de kan kombineras med andra data i analyssyfte.
-I följande video förklaras vad som [!UICONTROL journey step events] är och vilka som [!UICONTROL data steps] skapas automatiskt [!UICONTROL Experience Platform ]och hur du utforskar dessa.
+I följande video förklaras vad som [!UICONTROL journey step events] är och vilka som [!UICONTROL data steps] skapas automatiskt [!UICONTROL Experience Platform] och hur du utforskar dessa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
