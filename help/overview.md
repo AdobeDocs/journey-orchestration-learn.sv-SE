@@ -1,12 +1,12 @@
 ---
-title: Självstudiekurser om resesamordning - översikt
-description: Med resesamordning kan ni skapa användningsfall för realtidssamordning med hjälp av kontextuella data lagrade i händelser eller datakällor
+title: Journey Orchestration Tutorials - översikt
+description: Med Journey Orchestration kan ni bygga realtidsstyrningsexempel med hjälp av kontextuella data lagrade i händelser eller datakällor
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: d8a3de100c1b0607abf16e59dba8a5783f6097fc
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 0%
+source-wordcount: '245'
+ht-degree: 1%
 
 ---
 
@@ -17,8 +17,10 @@ ht-degree: 0%
 
 ## Nyheter
 
-* **[Hitta hjälp med Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
-   *Förstå var ni snabbt kan hitta svar på era frågor,[!UICONTROL Journey Orchestration]hur ni kontaktar supporten och loggar supportärenden samt hur ni kan ge oss feedback.*
+* **[Rapportera händelser för kundresa till Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
+   *Lär dig vilka steg som ska tas på kundresan och vilka datasteg som ska skapas automatiskt på Experience Platform och hur du utforskar dessa.*
+* **[Använda segmentkvalificeringshändelser](help/using-segment-qualification-events.md)**   <br>
+   *I den här videon får du en kort introduktion om hur du skapar en resa med en Segment Qualification-händelse som start- eller slutpunkt.*
 
 ## Personalval
 
@@ -26,15 +28,15 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="./understanding-journey-orchestration.md">
-      <img alt="Förstå resesamordning" src="./assets/journey-orchestration-example.png"/>
+      <img alt="Förstå Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
       <a href="./understanding-journey-orchestration.md">
-    <strong>Förstå resesamordning</strong>
+    <strong>Förstå Journey Orchestration</strong>
     </a>
     </div>
     <p>
-    <em>Förstå begreppet resesamordning, de typer av användningsområden som är möjliga och nyckelelementen i hur resesamordning fungerar.</em>
+    <em>Förstå konceptet Journey Orchestration, de typer av användningsfall som det möjliggör och nyckelelementen i hur Journey Orchestration fungerar.</em>
     <p>
   </td>
   <td>
@@ -68,6 +70,6 @@ ht-degree: 0%
 
 ## Ytterligare resurser
 
-* [Hjälpcenter för resesamordning](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform - självstudiekurser](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+* [Adobe Experience Platform Tutorials](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 
