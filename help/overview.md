@@ -3,7 +3,7 @@ title: Journey Orchestration Tutorials - översikt
 description: Med Journey Orchestration kan ni bygga realtidsstyrningsexempel med hjälp av kontextuella data lagrade i händelser eller datakällor
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 1%
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 * **[Rapportera händelser för kundresa till Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
    *Lär dig vilka steg som ska tas på kundresan och vilka datasteg som ska skapas automatiskt på Experience Platform och hur du utforskar dessa.*
-* **[Använda segmentkvalificeringshändelser](help/using-segment-qualification-events.md)**   <br>
+* **[Använda segmentkvalificeringshändelser](/help/using-segment-qualification-events.md)**   <br>
    *I den här videon får du en kort introduktion om hur du skapar en resa med en Segment Qualification-händelse som start- eller slutpunkt.*
 
 ## Personalval
