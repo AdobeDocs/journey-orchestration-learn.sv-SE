@@ -1,6 +1,6 @@
 ---
-title: 'Rapportera händelser om resesegment till Adobe Experience Platform '
-description: I den här självstudiekursen beskrivs hur du navigerar till rapportering för din resa, hur du anpassar datumintervall för din rapport och hur du sparar en rapportmall för framtida bruk.
+title: 'Rapportera händelser för kundresa till Adobe Experience Platform '
+description: I följande videofilm förklaras vilka steg i kundresan som är händelser och vilka dataseg som skapas automatiskt på Experience Platform samt hur du utforskar dessa.
 feature: Journey Orchestration
 topics: Introduction
 kt: 5488
@@ -9,10 +9,10 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 1%
+source-wordcount: '99'
+ht-degree: 2%
 
 ---
 
