@@ -1,6 +1,6 @@
 ---
-title: Analysera en resa med rapportverktyg
-description: I den här självstudiekursen beskrivs hur du navigerar till rapportering för din resa, hur du anpassar datumintervall för din rapport och hur du sparar en rapportmall för framtida bruk.
+title: Analysera en resa med rapporteringsverktyg
+description: 'I den här självstudiekursen förklaras hur du navigerar till rapportering för resan, hur du anpassar datumintervall för din rapport samt sparar en rapportmall för framtida bruk. '
 feature: Journey Orchestration
 topics: Introduction
 kt: 2777
@@ -8,26 +8,26 @@ thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: eff94dd57d933976c0fd0a303696a54048e4ddc0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Analysera en resa med rapportverktyg
+# Analysera en resa med rapporteringsverktyg
 
-I följande video nedan beskrivs hur du gör:
+I videon nedan beskrivs hur du:
 
-* Navigera till rapportering för din resa
-* Anpassa datumintervall för rapporten
-* Spara en rapportmall för framtida bruk
+* navigerar till rapportering för resan
+* anpassar datumintervall för rapporten
+* sparar en rapportmall för framtida bruk
 
->[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12&captions=swe)
 
 ## Ytterligare resurser
 
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
-* [Om rapporter från Journey Orchestration](https://docs.adobe.com/content/help/en/journeys/using/journey-reports/about-journey-reports.html)
+* [Help Center för Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html):
+* [Om rapporter i Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-reports/about-journey-reports.html)
