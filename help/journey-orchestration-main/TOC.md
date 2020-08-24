@@ -1,23 +1,23 @@
 ---
 product: journey orchestration
-user-guide-title: Journey Orchestration Tutorials
+user-guide-title: Självstudiekurser om Journey Orchestration
 user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
-tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
+tutorials-title: Självstudiekurser
+tutorials-url: https://docs.adobe.com/content/help/sv-SE/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: Hjälpcenter
-getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
+getting-started-url: https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
 source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 2%
+ht-degree: 95%
 
 ---
 
 
-# Journey Orchestration Tutorials {#tutorials}
+# Självstudiekurser om Journey Orchestration {#tutorials}
 
 + [Översikt](/help/overview.md)
 + [Förstå Journey Orchestration](/help/understanding-journey-orchestration.md)
@@ -27,6 +27,6 @@ ht-degree: 2%
 + [Konfigurera åtgärder](/help/configuring-journey-orchestration/configure-actions.md)
 + [Skapa en resa](/help/create-a-journey.md)
 + [Validera och publicera en resa](/help/validate-and-publish-a-journey.md)
-+ [Analysera en resa med rapportverktyg](/help/analyze-a-journey-via-reporting-tools.md)
-+ [Rapportera händelser för kundresa till Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
-+ [Hitta hjälp med Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)
++ [Analysera en resa med rapporteringsverktyg](/help/analyze-a-journey-via-reporting-tools.md)
++ [Rapportera stegvisa händelser i resan till Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
++ [Så här hittar du hjälp med Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)
