@@ -3,7 +3,7 @@ title: Självstudiekurser om Journey Orchestration – översikt
 description: Med Journey Orchestration kan du skapa användningsfall för orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
+source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 80%
@@ -17,7 +17,7 @@ ht-degree: 80%
 
 ## Nyheter
 
-* **[Rapportera stegvisa händelser i resan till Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**
+* **[Rapportera stegvisa händelser i resan till Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
    *Lär dig vilka steg som ska tas på kundresan och vilka datasteg som ska skapas automatiskt på Experience Platform och hur du utforskar dessa.*
