@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 80%
 * **[Rapportera stegvisa händelser i resan till Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
-   *Lär dig vilka steg som ska tas på kundresan och vilka datasteg som ska skapas automatiskt på Experience Platform och hur du utforskar dessa.*
-* **[Använda segmentkvalificeringshändelser](/help/using-segment-qualification-events.md)**
+   *Lär dig vad stegvisa händelser i resan är och vilka datasteg som skapas automatiskt i Experience Platform och hur du utforskar dessa.*
+* **[Använda segment med kvalificeringshändelser](/help/using-segment-qualification-events.md)**
 
    <br>
-   *I den här videon får du en kort introduktion om hur du skapar en resa med en Segment Qualification-händelse som start- eller slutpunkt.*
+   *Den här videon ger dig en kort introduktion om hur du skapar en resa med ett segment med kvalificeringshändelse som start- eller slutpunkt.*
 
 ## Personalval
 
