@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 95%
 + [Översikt](/help/overview.md)
 + [Förstå Journey Orchestration](/help/understanding-journey-orchestration.md)
 + [Konfigurera direktuppspelningshändelser](/help/configuring-journey-orchestration/configure-streaming-events.md)
-+ [Använda segmentkvalificeringshändelser](/help/using-segment-qualification-events.md)
++ [Använda segment med kvalificeringshändelser](/help/using-segment-qualification-events.md)
 + [Konfigurera datakällor](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Konfigurera åtgärder](/help/configuring-journey-orchestration/configure-actions.md)
 + [Skapa en resa](/help/create-a-journey.md)
