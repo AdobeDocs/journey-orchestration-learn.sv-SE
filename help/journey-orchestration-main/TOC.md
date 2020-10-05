@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/sv-SE/journey-orchestration-l
 getting-started-title: Hjälpcenter
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html
 type: Tutorial
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7c975de38ccd3ab724bafd8d53118eb092b844fe
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 
