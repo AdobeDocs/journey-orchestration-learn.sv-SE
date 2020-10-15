@@ -8,9 +8,9 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ I videon nedan beskrivs hur du:
 * använder kontroller i [!UICONTROL Orchestration] för att styra flödet och tidpunkterna i en resa
 * använder åtgärder för att engagera individer vid vissa punkter i resan.
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
 
 ## Ytterligare resurser
 
