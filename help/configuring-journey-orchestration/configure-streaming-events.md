@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 * en persons direkta aktiviteter (t.ex. att de köpt en produkt, besökt en butik eller övergett en kundvagn), eller
 * Något som hände och som är kopplat till personen (t.ex. när de nått 10 000 poäng för lojalitet)
 
-[!UICONTROL Journey Orchestration] händelser [!UICONTROL XDM experience events] som skickas till Adobe Experience Platform via [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] -händelser [!UICONTROL XDM experience events] som skickas till Adobe Experience Platform via [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
@@ -35,13 +35,13 @@ ht-degree: 0%
 >* [Inmatning av strömmande data](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
-För att förstå exemplen som används i videon bör du också bekanta dig med följande Adobe Experience Platform-tjänster:
+Om du vill veta mer om de exempel som används i videon bör du också bekanta dig med följande Adobe Experience Platform-tjänster:
 >
->* [Adobe Experience Platform Mobile SDK - start](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
->* [Platstjänst för Adobe Experience Platform](https://docs.adobe.com/content/help/en/places/using/home.html)
+>* [Adobe Experience Platform Mobile SDK – börja använda](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+>* [Platstjänst i Adobe Experience Platform](https://docs.adobe.com/content/help/sv-SE/places/using/home.html)
 
 
-## Konfigurera [!UICONTROL streaming events]
+## How to configure [!UICONTROL streaming events]
 
 I följande video förklaras hur du gör:
 
@@ -53,5 +53,5 @@ I följande video förklaras hur du gör:
 
 ## Ytterligare resurser
 
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
+* [Help Center för Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html):
    * [Om händelser](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)
