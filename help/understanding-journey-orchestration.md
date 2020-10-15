@@ -8,9 +8,9 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ I videon nedan introduceras
 * De typer av användningsfall som kan användas
 * De viktigaste elementen i hur [!UICONTROL Journey Orchestration] fungerar
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
 
 ## Så här konfigurerar du en resa
 
