@@ -11,8 +11,8 @@ activity: understand
 translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '326'
+ht-degree: 100%
 
 ---
 
