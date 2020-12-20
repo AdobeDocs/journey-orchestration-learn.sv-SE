@@ -1,6 +1,6 @@
 ---
-title: Konfigurera datakällor för Adobe Journey-samordning
-description: Med resesamordning kan ni ansluta till Adobe Experience Platform eller andra tredjepartssystem för att hämta ytterligare information. I den här självstudiekursen beskrivs hur du konfigurerar Experience Platform-datakällan, konfigurerar en extern datakälla, söker efter och använder data under en resa.
+title: Konfigurera datakällor för Adobe Journey Orchestration
+description: Med Journey Orchestration kan du ansluta till Adobe Experience Platform eller andra tredjepartssystem för att hämta ytterligare information. I den här självstudiekursen beskrivs hur du konfigurerar datakällan för Experience Platform, konfigurerar en extern datakälla, söker efter och använder data under en resa.
 feature: Journey Orchestration
 topics: Data Sources
 kt: 2774
@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
 
 # Konfigurera datakällor
 
-[!UICONTROL Journey Orchestration] Med kan ni ansluta till Adobe Experience Platform eller andra datakällor från tredje part för att hämta ytterligare information som kan användas under en resa för:
+[!UICONTROL Journey Orchestration] Med kan du ansluta till Adobe Experience Platform eller andra datakällor från tredje part för att hämta ytterligare information som kan användas under en resa för:
 
 * Definition av villkor
 * Parametrar och personaliseringsdata i åtgärder
@@ -34,5 +34,5 @@ I följande video förklaras hur du gör: Konfigurera en Experience Platform-dat
 
 ## Ytterligare resurser
 
-* [Hjälpcenter](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)för resesamordning:
+* [Help Center för Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html):
    * [Om datakällor](https://docs.adobe.com/content/help/en/journeys/using/data-source-journeys/about-data-sources.html)
