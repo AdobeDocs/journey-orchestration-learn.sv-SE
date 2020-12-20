@@ -8,9 +8,9 @@ thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: eff94dd57d933976c0fd0a303696a54048e4ddc0
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ I videon nedan beskrivs hur du:
 * anpassar datumintervall för rapporten
 * sparar en rapportmall för framtida bruk
 
->[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12)
 
 ## Ytterligare resurser
 
