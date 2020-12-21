@@ -11,8 +11,8 @@ activity: setup
 translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '253'
+ht-degree: 25%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 * en persons direkta aktiviteter (t.ex. att de köpt en produkt, besökt en butik eller övergett en kundvagn), eller
 * Något som hände och som är kopplat till personen (t.ex. när de nått 10 000 poäng för lojalitet)
 
-[!UICONTROL Journey Orchestration] -händelser [!UICONTROL XDM experience events] som skickas till Adobe Experience Platform via [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] -händelser  [!UICONTROL XDM experience events] som skickas till Adobe Experience Platform via  [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ Om du vill veta mer om de exempel som används i videon bör du också bekanta d
 >* [Platstjänst i Adobe Experience Platform](https://docs.adobe.com/content/help/sv-SE/places/using/home.html)
 
 
-## How to configure [!UICONTROL streaming events]
+## Konfigurera [!UICONTROL streaming events]
 
 I följande video förklaras hur du gör:
 
-* Konfigurera XDM-scheman och datauppsättningar för [!UICONTROL Journey Orchestration] händelser
+* Konfigurera XDM-scheman och datauppsättningar för [!UICONTROL Journey Orchestration]-händelser
 * Definiera en händelse i [!UICONTROL Journey Orchestration]
 * Konfigurera källsystem för att strömma händelser
 
