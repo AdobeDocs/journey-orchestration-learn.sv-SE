@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/sv-SE/journey-orchestration-l
 getting-started-title: Hjälpcenter
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+source-git-commit: 2af08154744d0ae8b9107b2abf3fe2bdcae73ac5
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 85%
+ht-degree: 82%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 85%
 + [Använda segment med kvalificeringshändelser](/help/using-segment-qualification-events.md)
 + [Konfigurera datakällor](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Konfigurera åtgärder](/help/configuring-journey-orchestration/configure-actions.md)
-+ Bygga en resa {#building-a-journey}
++ Bygg en resa {#building-a-journey}
    + [Skapa en resa](/help/building-a-journey/creating-a-journey.md)
    + [Hoppa till en annan resa](/help/building-a-journey/jumping-to-another-journey.md)
 + [Validera och publicera en resa](/help/validate-and-publish-a-journey.md)
