@@ -9,7 +9,7 @@ audience: user, developer
 doc-type: video
 activity: understand
 translation-type: tm+mt
-source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 100%
@@ -47,7 +47,7 @@ De viktigaste förberedande stegen för att skapa resor är följande:
 
 ## Skapa, publicera och analysera en resa
 
-1. [Skapa en resa](/help/create-a-journey.md)
+1. [Skapa en resa](/help/building-a-journey/creating-a-journey.md)
 1. [Validera och publicera en resa](/help/validate-and-publish-a-journey.md)
 1. [Analysera en resa med rapporteringsverktyg](/help/analyze-a-journey-via-reporting-tools.md)
 
