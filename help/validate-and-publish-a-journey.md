@@ -1,18 +1,19 @@
 ---
 title: Validera och publicera en resa
-description: Du kan testa din resa innan den publiceras med testprofiler. På så sätt kan ni analysera hur individer flödar in på resan och felsöka före publicering.
-feature: Journey Orchestration
+description: '"Lär dig hur du testar din resa innan den publiceras med testprofiler. "'
+feature: Resor
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
+role: Affärsledare, administratör
 translation-type: tm+mt
-source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 26%
+source-wordcount: '112'
+ht-degree: 28%
 
 ---
 
