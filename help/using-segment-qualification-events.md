@@ -1,18 +1,19 @@
 ---
 title: Använda segment med kvalificeringshändelser
-description: Den här videon ger dig en kort introduktion om var du konfigurerar ett segment och hur du konfigurerar ett segment med kvalificeringshändelse under en resa.
-feature: Journey Orchestration
+description: Lär dig var du konfigurerar segment och hur du konfigurerar en segmentkvalificeringshändelse under en resa.
+feature: Segment, händelser
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
+role: Affärsledare, administratör
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '137'
+ht-degree: 84%
 
 ---
 
