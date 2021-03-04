@@ -1,18 +1,19 @@
 ---
 title: Konfigurera datakällor för Adobe Journey Orchestration
-description: Med Journey Orchestration kan du ansluta till Adobe Experience Platform eller andra tredjepartssystem för att hämta ytterligare information. I den här självstudiekursen beskrivs hur du konfigurerar datakällan för Experience Platform, konfigurerar en extern datakälla, söker efter och använder data under en resa.
-feature: Journey Orchestration
+description: '"Lär dig hur du konfigurerar datakällan för Experience Platform, konfigurerar en extern datakälla och söker efter och använder data under en resa."'
+feature: Datakällor
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
+role: Administratör
 translation-type: tm+mt
-source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
+source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 12%
+source-wordcount: '144'
+ht-degree: 13%
 
 ---
 
