@@ -1,18 +1,19 @@
 ---
 title: 'Rapportera stegvisa händelser i resan till Adobe Experience Platform '
-description: I följande video förklarar vad stegvisa händelser i resan är och vilka datasteg som skapas automatiskt i Experience Platform och hur du utforskar dessa.
-feature: Journey Orchestration
+description: Förstå vilka steg i kundresan som är händelser och vilka datasteg som är och hur ni utforskar dem.
+feature: Resor
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
+role: Affärsledare, administratör
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
