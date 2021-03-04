@@ -1,18 +1,19 @@
 ---
 title: Analysera en resa med rapporteringsverktyg
-description: 'I den här självstudiekursen förklaras hur du navigerar till rapportering för resan, hur du anpassar datumintervall för din rapport samt sparar en rapportmall för framtida bruk. '
-feature: Journey Orchestration
+description: '"Läs om hur du navigerar till rapportering för resan, hur du anpassar datumintervall för din rapport samt sparar en rapportmall för framtida bruk."'
+feature: Rapporter
 topics: Introduction
 kt: 2777
 thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
+role: Affärsledare, administratör
 translation-type: tm+mt
-source-git-commit: eff94dd57d933976c0fd0a303696a54048e4ddc0
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '96'
+ht-degree: 96%
 
 ---
 
