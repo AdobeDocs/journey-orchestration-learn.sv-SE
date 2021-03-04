@@ -1,7 +1,7 @@
 ---
 title: Hoppa till en annan resa
 description: 'Läs om hur du kan flytta enskilda personer från en resa till en annan. '
-feature: Journey Orchestration
+feature: Resor
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -9,11 +9,12 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+role: Affärsledare, administratör
+translation-type: tm+mt
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+workflow-type: tm+mt
+source-wordcount: '83'
+ht-degree: 95%
 
 ---
 
@@ -27,7 +28,7 @@ Med aktiviteten Hoppa kan du:
 * Förenkla utformningen av mycket komplexa resor genom att dela upp dem i flera mindre
 * Bygga resor baserade på vanliga och återanvändbara resemönster
 
->[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
 ## Ytterligare resurser
 
