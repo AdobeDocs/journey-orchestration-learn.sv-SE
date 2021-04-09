@@ -9,15 +9,15 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-role: Affärsledare, administratör
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+role: Yrkesverksam, Administratör
+exl-id: 185c5c83-5444-4592-b113-732ee561f55a
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
-
 
 # Hoppa till en annan resa
 
@@ -32,5 +32,4 @@ Med aktiviteten Hoppa kan du:
 
 ## Ytterligare resurser
 
-* [Hoppa från en resa till en annan (produktdokumentation)](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=en#building-journeys)
-
+* [Hoppa från en resa till en annan (produktdokumentation)](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=sv#building-journeys)
