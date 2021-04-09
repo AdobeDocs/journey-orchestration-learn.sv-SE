@@ -2,15 +2,15 @@
 title: Självstudiekurser om Journey Orchestration – översikt
 description: Med Journey Orchestration kan du skapa användningsfall för orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
 products: Journey orchestration
-role: Affärsledare, administratör
-translation-type: tm+mt
-source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: tm+mt
+role: Yrkesverksam, administratör
+exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
-
 
 # Översikt
 
@@ -18,7 +18,7 @@ ht-degree: 97%
 
 ## Nyheter
 
-* **[Uppdatera profilåtgärd](/help/building-a-journey/update-profile-action.md)**
+* **[Uppdatera profilinstruktion](/help/building-a-journey/update-profile-action.md)**
 * **[Hoppa till en annan resa](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
    *Läs om hur du kan flytta enskilda personer från en resa till en annan.*
@@ -73,4 +73,3 @@ ht-degree: 97%
 
 * [Help Center för Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html)
 * [Självstudiekurser om Adobe Experience Platform](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/overview.html)
-
