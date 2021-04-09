@@ -7,11 +7,11 @@ type: Självstudiekurs
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/journey-orchestration-learn.sv-SE
 index: false
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d9ab2c502519c6bf136056d92eaf6e7e6432f1f5
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '131'
+ht-degree: 100%
 
 ---
 
@@ -22,17 +22,17 @@ Filen metadata.md innehåller metadata på arkivnivå som skickas till användar
 
 | metadata | vad gör den |
 |--- |--- |
-| lösning-titel | Används i artikelrubriken som en länk |
-| lösning-hubb-url | Öppnar den centrala helpx-sidan |
-| lösning-ikon | Visar lösningsikonen bredvid lösningstiteln Inte implementerat ännu |
-| komma-igång-url | Länk till startsidan i helpx |
-| självstudiekurser-url | Länk till videosjälvstudiekurser – antingen helpx-självstudiekurser eller KT-självstudiekurser |
-| mini-toc-nivåer | Anger antalet rubriknivåer som visas i det högra fältet. standard är två |
-| git-arkiv | Anger platsen för det överordnade arkivet som används internt |
+| solution-title | Används i artikelrubriken som en länk |
+| solution-hub-url | Öppnar den centrala helpx-sidan |
+| solution-icon | Visar lösningsikonen bredvid lösningstiteln Inte implementerat ännu |
+| getting-started-url | Länk till startsidan i helpx |
+| tutorials-url | Länk till videosjälvstudiekurser – antingen helpx-självstudiekurser eller KT-självstudiekurser |
+| mini-toc-levels | Anger antalet rubriknivåer som visas i det högra fältet. standard är två |
+| git-repo | Anger platsen för det överordnade arkivet som används internt |
 
 I filen TOC.md
 
 | metadata | vad gör den |
 |--- |--- |
-| användar-handbok-titel | Används i artikelrubriken som en länk |
-| användar-handbok-url | Öppnar den centrala helpx-sidan |
+| user-guide-title | Används i artikelrubriken som en länk |
+| user-guide-url | Öppnar den centrala helpx-sidan |
