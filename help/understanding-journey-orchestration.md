@@ -1,6 +1,6 @@
 ---
 title: Förstå Journey Orchestration
-description: '"Förstå konceptet Journey Orchestration, de typer av användningsfall som den möjliggör och de viktigaste elementen i hur Journey Orchestration fungerar."'
+description: ”Förstå konceptet Journey Orchestration, de typer av användningsfall som det möjliggör och de viktigaste elementen i hur Journey Orchestration fungerar.”
 feature: Översikt
 topics: Introduction
 kt: 2773
@@ -8,12 +8,12 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: Affärsledare, administratör
-translation-type: tm+mt
+role: Yrkesverksam, administratör
+translation-type: ht
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '330'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ De viktigaste förberedande stegen för att skapa resor är följande:
 
 >[!NOTE]
 >
->Dessa konfigurationssteg kräver teknisk kunskap. Du måste känna till [Upplevelsedatamodellen (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) och [hur du skapar XDM-upplevelsehändelser](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
+>Dessa konfigurationssteg kräver teknisk kunskap. Du måste känna till [Upplevelsedatamodellen (XDM)](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) och [hur du skapar XDM-upplevelsehändelser](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
 
 ## Skapa, publicera och analysera en resa
 
@@ -55,7 +55,7 @@ De viktigaste förberedande stegen för att skapa resor är följande:
 ## Ytterligare resurser
 
 * [Help Center för Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html)
-* [Självstudiekurser om Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Självstudiekurser om Adobe Experience Platform](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/overview.html)
 * [Så här hittar du hjälp med Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK – börja använda](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+* [Adobe Experience Platform Mobile SDK – börja använda](https://docs.adobe.com/content/help/sv-SE/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 * [Platstjänst i Adobe Experience Platform](https://docs.adobe.com/content/help/sv-SE/places/using/home.html)
