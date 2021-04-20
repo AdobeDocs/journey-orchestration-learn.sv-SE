@@ -9,7 +9,7 @@ tutorials-title: Självstudiekurser
 tutorials-url: https://docs.adobe.com/content/help/sv-SE/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: Hjälpcenter
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html
-level: Nybörjare
+level: Beginner
 translation-type: ht
 source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: ht

@@ -1,14 +1,14 @@
 ---
 title: Konfigurera åtgärder för Adobe Journey Orchestration
 description: Lär dig hur du konfigurerar en åtgärd för Journey Orchestration och hur du använder den under en resa.
-feature: Åtgärder
+feature: Actions
 topics: Custom Actions
 kt: 2775
 thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administratör
+role: Administrator
 translation-type: tm+mt
 source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt

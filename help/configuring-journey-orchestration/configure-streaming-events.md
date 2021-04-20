@@ -1,14 +1,14 @@
 ---
 title: Konfigurera direktuppspelningshändelser för Adobe Journey Orchestration
 description: '"Lär dig konfigurera XDM-scheman och datauppsättningar för Journey Orchestration-händelser, definiera en händelse i Journey Orchestration och konfigurera källsystem för att direktuppspela händelser"'
-feature: Datakällor, händelser, scheman
+feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administratör
+role: Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

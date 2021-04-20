@@ -1,14 +1,14 @@
 ---
 title: Använda segment med kvalificeringshändelser
 description: Lär dig var du konfigurerar segment och hur du konfigurerar en segmentkvalificeringshändelse under en resa.
-feature: Segment, händelser
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-role: Affärsledare, administratör
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

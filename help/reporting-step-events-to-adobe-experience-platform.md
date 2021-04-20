@@ -1,14 +1,14 @@
 ---
 title: 'Rapportera stegvisa händelser i resan till Adobe Experience Platform '
 description: Förstå vilka steg i kundresan som är händelser och vilka datasteg som är och hur ni utforskar dem.
-feature: Resor
+feature: Journeys
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: Affärsledare, administratör
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

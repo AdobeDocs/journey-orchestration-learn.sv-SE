@@ -1,14 +1,14 @@
 ---
 title: Konfigurera datakällor för Adobe Journey Orchestration
 description: '"Lär dig hur du konfigurerar datakällan för Experience Platform, konfigurerar en extern datakälla och söker efter och använder data under en resa."'
-feature: Datakällor
+feature: Data Sources
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administratör
+role: Administrator
 translation-type: tm+mt
 source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt

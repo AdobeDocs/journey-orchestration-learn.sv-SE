@@ -1,14 +1,14 @@
 ---
 title: Förstå Journey Orchestration
 description: ”Förstå konceptet Journey Orchestration, de typer av användningsfall som det möjliggör och de viktigaste elementen i hur Journey Orchestration fungerar.”
-feature: Översikt
+feature: Overview
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: Yrkesverksam, administratör
+role: Business Practitioner, Administrator
 translation-type: ht
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: ht

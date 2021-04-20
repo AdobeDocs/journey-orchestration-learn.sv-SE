@@ -1,14 +1,14 @@
 ---
 title: Validera och publicera en resa
 description: '"Lär dig hur du testar din resa innan den publiceras med testprofiler. "'
-feature: Resor
+feature: Journeys
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
-role: Affärsledare, administratör
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
