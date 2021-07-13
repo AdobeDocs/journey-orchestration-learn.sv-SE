@@ -1,19 +1,18 @@
 ---
 title: Skapa en resa med Adobe Journey Orchestration
 description: ”Läs mer om hur du skapar en ny resa, börjar med en händelse, använder orkestreringskontroller för att styra flödet och tidsplanen för en resa samt använder instruktioner för att engagera individer vid vissa punkter i resan.”
-feature: Journeys
+feature: Resor
 topics: Create a journey
 kt: 2789
 thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-translation-type: ht
-source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
-workflow-type: ht
-source-wordcount: '110'
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
