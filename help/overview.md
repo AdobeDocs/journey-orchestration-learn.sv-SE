@@ -2,12 +2,11 @@
 title: Självstudiekurser om Journey Orchestration – översikt
 description: Med Journey Orchestration kan du skapa användningsfall för orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
 products: Journey orchestration
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-translation-type: ht
-source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
-workflow-type: ht
-source-wordcount: '209'
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '206'
 ht-degree: 100%
 
 ---
