@@ -1,22 +1,21 @@
 ---
-title: 'Rapportera stegvisa händelser i resan till Adobe Experience Platform '
+title: 'Rapportera händelser under kundresan till Adobe Experience Platform '
 description: Förstå vilka steg i kundresan som är händelser och vilka datasteg som är och hur ni utforskar dem.
-feature: Journeys
+feature: Resor
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: 1ce7909e-173b-46f4-b20c-e6b5bfcb9d2c
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 82%
 
 ---
-
 
 # Rapportera stegvisa händelser till [!UICONTROL Adobe Experience Platform ]
 
