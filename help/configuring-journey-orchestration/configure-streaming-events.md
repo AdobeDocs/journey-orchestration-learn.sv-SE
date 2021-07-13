@@ -1,22 +1,21 @@
 ---
 title: Konfigurera direktuppspelningshändelser för Adobe Journey Orchestration
 description: '"Lär dig konfigurera XDM-scheman och datauppsättningar för Journey Orchestration-händelser, definiera en händelse i Journey Orchestration och konfigurera källsystem för att direktuppspela händelser"'
-feature: Data Sources, Events, Schemas
+feature: Datakällor, händelser, scheman
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: Admin
+exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '255'
 ht-degree: 25%
 
 ---
-
 
 # Konfigurera direktuppspelningshändelser
 
@@ -31,14 +30,14 @@ ht-degree: 25%
 >
 >Du måste känna till:
 >
->* [Experience Data Model (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
->* [Skapa XDM-scheman för Experience Events](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
+>* [Experience Data Model (XDM)](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
+>* [Skapa XDM-scheman för Experience Events](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [Inmatning av strömmande data](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
 Om du vill veta mer om de exempel som används i videon bör du också bekanta dig med följande Adobe Experience Platform-tjänster:
 >
->* [Adobe Experience Platform Mobile SDK – börja använda](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+>* [Adobe Experience Platform Mobile SDK – börja använda](https://docs.adobe.com/content/help/sv-SE/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Platstjänst i Adobe Experience Platform](https://docs.adobe.com/content/help/sv-SE/places/using/home.html)
 
 
