@@ -1,19 +1,19 @@
 ---
 title: Självstudiekurser om Journey Orchestration – översikt
-description: Med Journey Orchestration kan du skapa användningsfall för orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
+description: Med Journey Orchestration kan du skapa användningsfall för realtidssamordning med hjälp av kontextuella data lagrade i händelser eller datakällor
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 100%
+source-wordcount: '205'
+ht-degree: 62%
 
 ---
 
 # Översikt
 
-[!UICONTROL Journey Orchestration] är en programtjänst som är integrerad i Adobe Experience Platform. Med den kan du skapa användningsfall för orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
+[!UICONTROL Journey Orchestration] är en programtjänst som är integrerad i Adobe Experience Platform. Det gör att du kan skapa användningsfall för realtidssamordning med hjälp av kontextuella data lagrade i händelser eller datakällor.
 
 ## Nyheter
 
@@ -49,7 +49,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>Läs mer om hur du skapar en ny resa, börjar med en händelse, använder orkestreringskontroller för att styra flöde och tidpunkt för en resa samt använder åtgärder för att engagera individer vid vissa punkter i resan.</em>
+    <em>Lär dig hur du skapar en resa, börjar med en händelse, använder orkestrationer för att styra flödet och tidpunkten för en resa och använder åtgärder för att engagera vid olika punkter på resan.</em>
     <p>
   </td>
   <td>
@@ -70,5 +70,5 @@ ht-degree: 100%
 
 ## Ytterligare resurser
 
-* [Help Center för Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html)
-* [Självstudiekurser om Adobe Experience Platform](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/overview.html)
+* [Help Center för Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=sv)
+* [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)

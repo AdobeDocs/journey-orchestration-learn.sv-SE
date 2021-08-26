@@ -1,7 +1,7 @@
 ---
 title: Förstå Journey Orchestration
 description: ”Förstå konceptet Journey Orchestration, de typer av användningsfall som det möjliggör och de viktigaste elementen i hur Journey Orchestration fungerar.”
-feature: Översikt
+feature: Overview
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
@@ -9,10 +9,10 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 100%
+source-wordcount: '324'
+ht-degree: 63%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 100%
 
 ## Introduktion till [!UICONTROL Journey Orchestration]
 
-Med [!UICONTROL Journey Orchestration] kan du skapa användningsfall för orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller i datakällor.
+[!UICONTROL Journey Orchestration] Med kan du skapa användningsfall för realtidssamordning med hjälp av kontextuella data som lagras i händelser eller datakällor.
 
-[!UICONTROL Journey Orchestration] är en programtjänst som är integrerad i Adobe Experience Platform. Tjänsten består av ett intelligent och öppet ekosystem som aktiverar alla relevanta data i realtid genom skalbar och händelsebaserad interaktion över alla kanaler som företaget behöver, från marknadsföring och drift till service. Med [!UICONTROL Journey Orchestration] kan alla data från Adobe Experience Platform och alla externa leveranssystem användas för att skapa och leverera tilltalande upplevelser.
+[!UICONTROL Journey Orchestration] är en programtjänst som är integrerad i Adobe Experience Platform. Tjänsten består av ett intelligent och öppet ekosystem som aktiverar alla relevanta data i realtid genom skalbar och händelsebaserad interaktion över alla kanaler som företaget behöver, från marknadsföring och drift till service. [!UICONTROL Journey Orchestration] kan använda alla data från Adobe Experience Platform och alla externa leveranssystem för att skapa och leverera övertygande upplevelser.
 
 I videon nedan introduceras
 
@@ -38,12 +38,12 @@ I videon nedan introduceras
 De viktigaste förberedande stegen för att skapa resor är följande:
 
 1. [Konfigurera direktuppspelningshändelser](/help/configuring-journey-orchestration/configure-streaming-events.md) – den här konfigurationen är obligatorisk eftersom [!UICONTROL Journey Orchestration] är designad för att läsa av händelser.
-1. [Konfigurera datakällor](/help/configuring-journey-orchestration/configure-data-sources.md) – den här konfigurationen krävs inte om dina resor endast utnyttjar lokala data som kommer från en händelses nyttolast.
+1. [Konfigurera datakällor](/help/configuring-journey-orchestration/configure-data-sources.md)  - Den här konfigurationen krävs inte om dina resor endast använder lokala data som kommer från en händelsenyttolast.
 1. [Konfigurera anpassade åtgärder](/help/configuring-journey-orchestration/configure-actions.md): krävs om du vill använda en tjänst från en tredjepartsleverantör som kan anropas via ett [!DNL REST API] med en JSON-formaterad nyttolast
 
 >[!NOTE]
 >
->Dessa konfigurationssteg kräver teknisk kunskap. Du måste känna till [Upplevelsedatamodellen (XDM)](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) och [hur du skapar XDM-upplevelsehändelser](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
+>Dessa konfigurationssteg kräver teknisk kunskap. Du måste känna till [Experience Data Model (XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=en) och [hur du skapar XDM Experience-händelsescheman](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=en).
 
 ## Skapa, publicera och analysera en resa
 
@@ -53,8 +53,8 @@ De viktigaste förberedande stegen för att skapa resor är följande:
 
 ## Ytterligare resurser
 
-* [Help Center för Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html)
-* [Självstudiekurser om Adobe Experience Platform](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/overview.html)
+* [Help Center för Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=sv)
+* [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
 * [Så här hittar du hjälp med Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK – börja använda](https://docs.adobe.com/content/help/sv-SE/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
-* [Platstjänst i Adobe Experience Platform](https://docs.adobe.com/content/help/sv-SE/places/using/home.html)
+* [Adobe Experience Platform Mobile SDK – börja använda](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=en)
+* [Platstjänst i Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
