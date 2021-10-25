@@ -1,19 +1,19 @@
 ---
-title: Självstudiekurser om Journey Orchestration – översikt
-description: Med Journey Orchestration kan du skapa användningsfall för realtidssamordning med hjälp av kontextuella data lagrade i händelser eller datakällor
+title: Självstudier för Journey Orchestration – översikt
+description: Med Journey Orchestration kan du skapa orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # Översikt
 
-[!UICONTROL Journey Orchestration] är en programtjänst som är integrerad i Adobe Experience Platform. Det gör att du kan skapa användningsfall för realtidssamordning med hjälp av kontextuella data lagrade i händelser eller datakällor.
+[!UICONTROL Journey Orchestration] är en programtjänst som är integrerad i Adobe Experience Platform. Det låter dig skapa orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
 
 ## Nyheter
 
@@ -49,7 +49,7 @@ ht-degree: 62%
     </a>
     </div>
     <p>
-    <em>Lär dig hur du skapar en resa, börjar med en händelse, använder orkestrationer för att styra flödet och tidpunkten för en resa och använder åtgärder för att engagera vid olika punkter på resan.</em>
+    <em>Läs mer om hur du skapar en ny resa, startar en händelse, använder orkestreringar för att styra flödet och timingen för en resa samt använder åtgärder för att engagera vid ställen på resan.</em>
     <p>
   </td>
   <td>
@@ -71,4 +71,4 @@ ht-degree: 62%
 ## Ytterligare resurser
 
 * [Help Center för Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=sv)
-* [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+* [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)
