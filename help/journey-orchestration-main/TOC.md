@@ -5,15 +5,14 @@ user-guide-description: Läs om hur du kan konfigurera, skapa, publicera och ana
 user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
-tutorials-title: Självstudiekurser
-tutorials-url: https://docs.adobe.com/content/help/sv-SE/journey-orchestration-learn/tutorials/overview.html
-getting-started-title: Hjälpcenter
-getting-started-url: https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html
+tutorials-title: Tutorials
+tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
+getting-started-title: Help Center
+getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 level: Beginner
-translation-type: ht
 source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: ht
-source-wordcount: '101'
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
@@ -33,5 +32,5 @@ ht-degree: 100%
    + [Uppdatera profilinstruktion](/help/building-a-journey/update-profile-action.md)
 + [Validera och publicera en resa](/help/validate-and-publish-a-journey.md)
 + [Analysera en resa med rapporteringsverktyg](/help/analyze-a-journey-via-reporting-tools.md)
-+ [Rapportera stegvisa händelser i resan till Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
++ [Rapportera händelser under kundresan till Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
 + [Så här hittar du hjälp med Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)

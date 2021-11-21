@@ -1,7 +1,7 @@
 ---
 title: Konfigurera direktuppspelningshändelser för Adobe Journey Orchestration
 description: '"Lär dig konfigurera XDM-scheman och datauppsättningar för Journey Orchestration-händelser, definiera en händelse i Journey Orchestration och konfigurera källsystem för att direktuppspela händelser"'
-feature: Datakällor, händelser, scheman
+feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
@@ -12,7 +12,7 @@ role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '251'
 ht-degree: 25%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 25%
 * en persons direkta aktiviteter (t.ex. att de köpt en produkt, besökt en butik eller övergett en kundvagn), eller
 * Något som hände och som är kopplat till personen (t.ex. när de nått 10 000 poäng för lojalitet)
 
-[!UICONTROL Journey Orchestration] -händelser  [!UICONTROL XDM experience events] som skickas till Adobe Experience Platform via  [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] händelser är [!UICONTROL XDM experience events] som skickas till Adobe Experience Platform via [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
@@ -34,8 +34,7 @@ ht-degree: 25%
 >* [Skapa XDM-scheman för Experience Events](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [Inmatning av strömmande data](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
->
-Om du vill veta mer om de exempel som används i videon bör du också bekanta dig med följande Adobe Experience Platform-tjänster:
+>Om du vill veta mer om de exempel som används i videon bör du också bekanta dig med följande Adobe Experience Platform-tjänster:
 >
 >* [Adobe Experience Platform Mobile SDK – börja använda](https://docs.adobe.com/content/help/sv-SE/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Platstjänst i Adobe Experience Platform](https://docs.adobe.com/content/help/sv-SE/places/using/home.html)
@@ -45,7 +44,7 @@ Om du vill veta mer om de exempel som används i videon bör du också bekanta d
 
 I följande video förklaras hur du gör:
 
-* Konfigurera XDM-scheman och datauppsättningar för [!UICONTROL Journey Orchestration]-händelser
+* Konfigurera XDM-scheman och datauppsättningar för [!UICONTROL Journey Orchestration] händelser
 * Definiera en händelse i [!UICONTROL Journey Orchestration]
 * Konfigurera källsystem för att strömma händelser
 
@@ -53,5 +52,5 @@ I följande video förklaras hur du gör:
 
 ## Ytterligare resurser
 
-* [Help Center för Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html):
+* [Help Center för Journey Orchestration](https://docs.adobe.com/content/help/sv/journeys/using/journey-orchestration-home.html):
    * [Om händelser](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)

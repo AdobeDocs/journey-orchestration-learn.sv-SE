@@ -23,7 +23,7 @@ Du kan testa din resa innan den publiceras med testprofiler. Genom att testa res
 
 I videon nedan beskrivs hur du:
 
-* Aktivera och använd **[!UICONTROL test mode]** för att validera en resa
+* Aktivera och använda **[!UICONTROL test mode]** för att validera en resa
 * Publicera en resa och hantera status för den
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)

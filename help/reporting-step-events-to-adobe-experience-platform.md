@@ -20,7 +20,7 @@ ht-degree: 55%
 # Rapportera stegvisa händelser till [!UICONTROL Adobe Experience Platform ]
 
 [!UICONTROL Journey Orchestration] skickar automatiskt data om resans resultat till [!UICONTROL Adobe Experience Platform] så att de kan kombineras med andra data i analyssyfte.
-I följande video förklaras vad [!UICONTROL journey step events] är och vilka [!UICONTROL data steps] som skapas automatiskt på [!UICONTROL Experience Platform].
+I följande video förklaras vad [!UICONTROL journey step events] och vilka [!UICONTROL data steps] skapas automatiskt den [!UICONTROL Experience Platform].
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
