@@ -9,10 +9,10 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -58,3 +58,4 @@ De viktigaste förberedande stegen för att skapa resor är följande:
 * [Så här hittar du hjälp med Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK – börja använda](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=sv)
 * [Platstjänst i Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=sv)
+
