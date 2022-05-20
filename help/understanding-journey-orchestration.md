@@ -1,6 +1,6 @@
 ---
 title: Förstå Journey Orchestration
-description: ”Förstå konceptet Journey Orchestration, de typer av användningsfall som det möjliggör och de viktigaste elementen i hur Journey Orchestration fungerar.”
+description: Förstå konceptet Journey Orchestration, de typer av användningsfall som den möjliggör och de viktigaste elementen i hur Journey Orchestration fungerar.
 feature: Overview
 topics: Introduction
 kt: 2773
@@ -9,19 +9,19 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
+exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '324'
+ht-degree: 100%
 
 ---
 
-
 # Förstå [!UICONTROL Journey Orchestration]
 
-## Introduktion till [!UICONTROL Journey Orchestration]
-
 Med [!UICONTROL Journey Orchestration] kan du skapa orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller i datakällor.
+
+## Introduktion till [!UICONTROL Journey Orchestration]
 
 [!UICONTROL Journey Orchestration] är en programtjänst som är integrerad i Adobe Experience Platform. Tjänsten består av ett intelligent och öppet ekosystem som aktiverar alla relevanta data i realtid genom skalbar och händelsebaserad interaktion över alla kanaler som företaget behöver, från marknadsföring och drift till service. [!UICONTROL Journey Orchestration] kan använda alla data från Adobe Experience Platform och andra externa leveranssystem för att skapa och leverera övertygande upplevelser.
 
@@ -58,4 +58,3 @@ De viktigaste förberedande stegen för att skapa resor är följande:
 * [Så här hittar du hjälp med Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK – börja använda](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=sv)
 * [Platstjänst i Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=sv)
-

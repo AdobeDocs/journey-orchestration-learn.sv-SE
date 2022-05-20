@@ -1,6 +1,6 @@
 ---
 title: Konfigurera datakällor för Adobe Journey Orchestration
-description: '"Lär dig hur du konfigurerar datakällan för Experience Platform, konfigurerar en extern datakälla och söker efter och använder data under en resa."'
+description: Lär dig hur du konfigurerar datakällan för Experience Platform, konfigurerar en extern datakälla och söker efter och använder data under en resa.
 feature: Data Sources
 topics: Data Sources
 kt: 2774
@@ -10,7 +10,7 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 14%
@@ -19,9 +19,9 @@ ht-degree: 14%
 
 # Konfigurera datakällor
 
-[!UICONTROL Journey Orchestration] Med kan du ansluta till Adobe Experience Platform eller andra datakällor från tredje part för att hämta ytterligare information som kan användas under en resa för:
+[!UICONTROL Journey Orchestration] allows you to connect to Adobe Experience Platform or other third-party data sources to retrieve additional information that can be used in a journey for:
 
-* Definition av villkor
+* Definition of conditions
 * Parametrar och personaliseringsdata i åtgärder
 * [!UICONTROL Custom timer] definition
 * Anpassad tidszonsdefinition
