@@ -1,6 +1,6 @@
 ---
 title: Skapa en resa med Adobe Journey Orchestration
-description: Learn how to create a new journey, start with an event, use orchestrations controls to control the flow and timing of a journey, and use Actions to engage at points in the journey.
+description: Lär dig hur du skapar en ny resa, börjar med en händelse, använder orkestreringskontroller för att styra flödet och tidpunkten för en resa och använder funktionsmakron för att engagera vid resans punkter.
 feature: Journeys
 topics: Create a journey
 kt: 2789
@@ -10,24 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 68%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Skapa en resa
 
-I videon nedan beskrivs hur du:
+# Skapa en resa med Adobe Journey Orchestration
 
-* skapar en ny resa och börjar med en händelse
-* använder kontroller i [!UICONTROL Orchestration] för att styra flödet och tidpunkterna i en resa
-* använder åtgärder för att engagera individer vid vissa punkter i resan.
+Lär dig hur du skapar en resa, börjar med en händelse, använder orkestreringskontroller för att styra flödet och tidpunkten för en resa och använder funktionsmakron för att engagera vid resans punkter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
-
-## Ytterligare resurser
-
-* [Help Center för Journey Orchestration](https://docs.adobe.com/content/help/sv/journeys/using/journey-orchestration-home.html):
-   * [Skapa en resa](https://docs.adobe.com/content/help/sv-SE/journeys/using/building-journeys/about-journey-building/journey.html)

@@ -1,17 +1,17 @@
 ---
-title: Självstudier för Journey Orchestration – översikt
+title: Självstudiekurser om Journey Orchestration
 description: Med Journey Orchestration kan du skapa orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Översikt
+# Självstudiekurser om Journey Orchestration
 
 [!UICONTROL Journey Orchestration] är en programtjänst som är integrerad i Adobe Experience Platform. Det låter dig skapa orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
 

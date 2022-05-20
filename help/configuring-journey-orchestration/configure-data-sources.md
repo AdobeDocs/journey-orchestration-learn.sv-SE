@@ -10,29 +10,17 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 14%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Konfigurera datakällor
 
-[!UICONTROL Journey Orchestration] allows you to connect to Adobe Experience Platform or other third-party data sources to retrieve additional information that can be used in a journey for:
-
-* Definition of conditions
-* Parametrar och personaliseringsdata i åtgärder
-* [!UICONTROL Custom timer] definition
-* Anpassad tidszonsdefinition
-
-Den här konfigurationen krävs inte om resan bara utnyttjar lokala data som kommer från en händelsenyttolast.
-
-I följande video förklaras hur du gör: Konfigurera en Experience Platform-datakälla och en extern datakälla samt hur du hittar och använder data under en resa.
+Lär dig hur du konfigurerar datakällor i Experience Platform, konfigurerar en extern datakälla och söker efter och använder data under en resa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
 
-## Ytterligare resurser
-
-* [Help Center för Journey Orchestration](https://docs.adobe.com/content/help/sv/journeys/using/journey-orchestration-home.html):
-   * [Om datakällor](https://docs.adobe.com/content/help/en/journeys/using/data-source-journeys/about-data-sources.html)
+Mer information finns i [Om datakällor](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) i produktdokumentationen.

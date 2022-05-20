@@ -1,6 +1,6 @@
 ---
 title: 'Rapportera händelser under kundresan till Adobe Experience Platform '
-description: Förstå vilka steg i kundresan som är händelser och vilka datasteg som är och hur ni utforskar dem.
+description: Förstå vilka steg i kundresan som händelser och datagrafter är och hur ni utforskar dem.
 feature: Journeys
 topics: Introduction
 kt: 5488
@@ -10,21 +10,17 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: 1ce7909e-173b-46f4-b20c-e6b5bfcb9d2c
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 55%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Rapportera stegvisa händelser till [!UICONTROL Adobe Experience Platform ]
 
-[!UICONTROL Journey Orchestration] skickar automatiskt data om resans resultat till [!UICONTROL Adobe Experience Platform] så att de kan kombineras med andra data i analyssyfte.
-I följande video förklaras vad [!UICONTROL journey step events] och vilka [!UICONTROL data steps] skapas automatiskt den [!UICONTROL Experience Platform].
+Förstå vilka steg i kundresan som händelser och datagrafter är och hur ni utforskar dem.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
-## Ytterligare resurser
-
-* [Help Center för Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=sv):
-* [Översikt över att dela steg i resan](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en)
+Se [Översikt över delning av resesteg](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) för mer information.

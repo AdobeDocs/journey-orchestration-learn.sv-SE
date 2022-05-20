@@ -10,10 +10,10 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 25%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 25%
 
 [!UICONTROL Journey Orchestration] lyssnar på händelser och ordnar de bästa nästa åtgärderna inom kundresan baserat på dessa händelser. En händelse kan relatera till:
 
-* en persons direkta aktiviteter (t.ex. att de köpt en produkt, besökt en butik eller övergett en kundvagn), eller
-* Något som hände och som är kopplat till personen (t.ex. när de nått 10 000 poäng för lojalitet)
+* en persons direkta åtgärder (t.ex. att de har köpt en produkt, besökt en butik eller övergett en kundvagn), eller
+* Något som hände och som är kopplat till personen (de har till exempel nått 10 000 poäng för lojalitet)
 
 [!UICONTROL Journey Orchestration] händelser är [!UICONTROL XDM experience events] som skickas till Adobe Experience Platform via [!UICONTROL streaming ingestion].
 
@@ -30,14 +30,14 @@ ht-degree: 25%
 >
 >Du måste känna till:
 >
->* [Experience Data Model (XDM)](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
->* [Skapa XDM-scheman för Experience Events](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
->* [Inmatning av strömmande data](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
+>* [Experience Data Model (XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=sv)
+>* [Skapa XDM-scheman för Experience Events](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=sv)
+>* [Inmatning av strömmande data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en)
 >
 >Om du vill veta mer om de exempel som används i videon bör du också bekanta dig med följande Adobe Experience Platform-tjänster:
 >
->* [Adobe Experience Platform Mobile SDK – börja använda](https://docs.adobe.com/content/help/sv-SE/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
->* [Platstjänst i Adobe Experience Platform](https://docs.adobe.com/content/help/sv-SE/places/using/home.html)
+>* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+>* [Platstjänst i Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=sv)
 
 
 ## Konfigurera [!UICONTROL streaming events]
@@ -50,7 +50,4 @@ I följande video förklaras hur du gör:
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
 
-## Ytterligare resurser
-
-* [Help Center för Journey Orchestration](https://docs.adobe.com/content/help/sv/journeys/using/journey-orchestration-home.html):
-   * [Om händelser](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)
+Mer information finns i [Om händelser](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) i produktdokumentationen.
