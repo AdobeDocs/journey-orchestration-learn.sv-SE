@@ -11,9 +11,9 @@ activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
 source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '323'
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ De viktigaste förberedande stegen för att skapa resor är följande:
 
 1. [Konfigurera direktuppspelningshändelser](/help/configuring-journey-orchestration/configure-streaming-events.md) – den här konfigurationen är obligatorisk eftersom [!UICONTROL Journey Orchestration] är designad för att läsa av händelser.
 1. [Konfigurera datakällor](/help/configuring-journey-orchestration/configure-data-sources.md) – den här konfigurationen krävs inte om dina resor bara använder lokala data som kommer från en händelses nyttolast.
-1. [Konfigurera anpassade åtgärder](/help/configuring-journey-orchestration/configure-actions.md): Krävs om du vill använda en tjänst från en tredjepartsleverantör som kan anropas via en [!DNL REST API] med JSON-formaterad nyttolast
+1. [Konfigurera anpassade åtgärder](/help/configuring-journey-orchestration/configure-actions.md): krävs om du vill använda en tjänst från en tredjepartsleverantör som kan anropas via ett [!DNL REST API] med en JSON-formaterad nyttolast
 
 >[!NOTE]
 >
@@ -56,5 +56,5 @@ De viktigaste förberedande stegen för att skapa resor är följande:
 * [Help Center för Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=sv)
 * [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)
 * [Så här hittar du hjälp med Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK – börja använda](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+* [Adobe Experience Platform Mobile SDK – börja använda](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=sv)
 * [Platstjänst i Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=sv)
