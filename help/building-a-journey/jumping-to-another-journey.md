@@ -12,9 +12,9 @@ team: PM
 role: User, Admin
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
 source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '57'
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Lär dig hur du använder hoppaktiviteten för att flytta kunder från en resa t
 
 >[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
-Mer information finns på [produktdokumentation](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=sv#building-journeys).
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=sv#building-journeys).
