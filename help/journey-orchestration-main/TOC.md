@@ -11,9 +11,9 @@ getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 level: Beginner
 source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '71'
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 + Bygg en resa {#building-a-journey}
    + [Skapa en resa](/help/building-a-journey/creating-a-journey.md)
    + [Hoppa till en annan resa](/help/building-a-journey/jumping-to-another-journey.md)
-   + [Uppdatera profilinstruktion](/help/building-a-journey/update-profile-action.md)
+   + [Uppdatera profilåtgärd](/help/building-a-journey/update-profile-action.md)
 + [Validera och publicera en resa](/help/validate-and-publish-a-journey.md)
 + [Analysera en resa med rapporteringsverktyg](/help/analyze-a-journey-via-reporting-tools.md)
 + [Rapportera händelser under kundresan till Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
