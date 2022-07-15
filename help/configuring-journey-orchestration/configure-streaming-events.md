@@ -36,7 +36,7 @@ ht-degree: 0%
 >
 >Om du vill veta mer om de exempel som används i videon bör du också bekanta dig med följande Adobe Experience Platform-tjänster:
 >
->* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+>* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=sv)
 >* [Platstjänst i Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=sv)
 
 
