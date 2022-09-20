@@ -1,23 +1,23 @@
 ---
-title: Självstudiekurser om Journey Orchestration
+title: Självstudier för Journey Orchestration – översikt
 description: Med Journey Orchestration kan du skapa orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: ht
-source-wordcount: '206'
+source-git-commit: 88ee4113f06f310b68ead54a156372d78cb934aa
+workflow-type: tm+mt
+source-wordcount: '208'
 ht-degree: 100%
 
 ---
 
-# Självstudiekurser om Journey Orchestration
+# Självstudier för Journey Orchestration – översikt
 
 [!UICONTROL Journey Orchestration] är en programtjänst som är integrerad i Adobe Experience Platform. Det låter dig skapa orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
 
 ## Nyheter
 
-* **[Uppdatera profilinstruktion](/help/building-a-journey/update-profile-action.md)**
+* **[Uppdatera profilåtgärd](/help/building-a-journey/update-profile-action.md)**
 * **[Hoppa till en annan resa](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
    *Läs om hur du kan flytta enskilda personer från en resa till en annan.*
@@ -62,7 +62,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>Läs om hur du navigerar till rapportering för resan, hur du anpassar datumintervall för din rapport samt sparar en rapportmall för framtida bruk. </em>
+    <em>Läs om hur du går till rapportering för resan, hur du anpassar datumintervall för din rapport samt sparar en rapportmall för framtida bruk. </em>
     <p>
   </td>
 </tr>
