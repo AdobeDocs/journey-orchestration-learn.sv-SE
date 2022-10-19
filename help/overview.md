@@ -4,23 +4,35 @@ description: Med Journey Orchestration kan du skapa orkestrering i realtid med h
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 88ee4113f06f310b68ead54a156372d78cb934aa
+source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 100%
+source-wordcount: '207'
+ht-degree: 98%
 
 ---
 
-# Självstudier för Journey Orchestration – översikt
+# Självstudiekurser för Journey Orchestration
 
 [!UICONTROL Journey Orchestration] är en programtjänst som är integrerad i Adobe Experience Platform. Det låter dig skapa orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
+
+<div id="whats-new-section">
 
 ## Nyheter
 
 * **[Uppdatera profilåtgärd](/help/building-a-journey/update-profile-action.md)**
 * **[Hoppa till en annan resa](/help/building-a-journey/jumping-to-another-journey.md)**
-   <br>
    *Läs om hur du kan flytta enskilda personer från en resa till en annan.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Personalval
 
@@ -67,6 +79,8 @@ ht-degree: 100%
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Ytterligare resurser
 
