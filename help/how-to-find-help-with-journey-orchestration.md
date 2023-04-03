@@ -10,10 +10,10 @@ doc-type: video
 activity: understand
 role: User, Admin
 exl-id: 80fb9247-1e11-4eae-ab1e-b76f004714ed
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 17%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Förstå var du snabbt kan hitta svar på dina frågor [!UICONTROL Journey Orchestration], hur du kontaktar supporten och loggar supportärenden och hur du kan ge oss feedback.
 
->[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12&learn=on)

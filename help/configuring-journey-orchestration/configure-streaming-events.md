@@ -1,6 +1,6 @@
 ---
 title: Konfigurera direktuppspelningshändelser för Adobe Journey Orchestration
-description: Lär dig hur du konfigurerar XDM-scheman och datauppsättningar för Journey Orchestration-händelser, definierar en händelse i Journey Orchestration och konfigurerar källsystem för att direktuppspela händelser.
+description: Lär dig hur du konfigurerar XDM-scheman och datauppsättningar för Journey Orchestration-händelser, definierar en händelse i Journey Orchestration och konfigurerar källsystem för att streama händelser.
 feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
@@ -10,10 +10,10 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 17%
+ht-degree: 27%
 
 ---
 
@@ -48,6 +48,6 @@ I följande video förklaras hur du gör:
 * Definiera en händelse i [!UICONTROL Journey Orchestration]
 * Konfigurera källsystem för att strömma händelser
 
->[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12&learn=on)
 
 Mer information finns i [Om händelser](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) i produktdokumentationen.

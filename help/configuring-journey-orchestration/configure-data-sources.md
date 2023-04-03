@@ -10,10 +10,10 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
-source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 4%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Lär dig hur du konfigurerar datakällor i Experience Platform, konfigurerar en extern datakälla och söker efter och använder data under en resa.
 
->[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12&learn=on)
 
 Mer information finns i [Om datakällor](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) i produktdokumentationen.
