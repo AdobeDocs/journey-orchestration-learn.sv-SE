@@ -1,7 +1,7 @@
 ---
 product: journey orchestration
 user-guide-title: Självstudiekurser om Journey Orchestration
-user-guide-description: Läs om hur du kan konfigurera, skapa, publicera och analysera en resa.
+user-guide-description: Lär dig hur du konfigurerar, skapar, publicerar och analyserar en resa.
 user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration

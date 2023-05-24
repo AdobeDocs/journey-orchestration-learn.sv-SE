@@ -48,7 +48,7 @@ ht-degree: 98%
     </a>
     </div>
     <p>
-    <em>Förstå konceptet Journey Orchestration, de typer av användningsfall som den möjliggör och de viktigaste elementen i hur Journey Orchestration fungerar.</em>
+    <em>Förstå konceptet Journey Orchestration, de typer av användningsfall som det möjliggör och de viktigaste elementen för hur Journey Orchestration fungerar.</em>
     <p>
   </td>
   <td>
