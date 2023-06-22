@@ -3,7 +3,7 @@ title: Hoppa till en annan resa
 description: Lär dig hur du använder hoppaktiviteten för att flytta kunder från en resa till en annan.
 feature: Journeys
 topics: activity
-kt: 6695
+jira: KT-6695
 thumbnail: 330560.jpg
 audience: user
 doc-type: video
@@ -11,8 +11,8 @@ activity: use
 team: PM
 role: User, Admin
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
-workflow-type: ht
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
+workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%
 

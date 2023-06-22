@@ -3,15 +3,15 @@ title: Analysera en resa med rapporteringsverktyg
 description: Läs om hur du går till rapportering för resan, hur du anpassar datumintervall för din rapport samt sparar en rapportmall för framtida bruk.
 feature: Reports
 topics: Introduction
-kt: 2777
+jira: KT-2777
 thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
-workflow-type: ht
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
+workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 100%
 
