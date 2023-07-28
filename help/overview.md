@@ -2,9 +2,10 @@
 title: Självstudier för Journey Orchestration – översikt
 description: Med Journey Orchestration kan du skapa orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
 products: Journey orchestration
+feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
+source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 98%
@@ -21,7 +22,7 @@ ht-degree: 98%
 
 * **[Uppdatera profilåtgärd](/help/building-a-journey/update-profile-action.md)**
 * **[Hoppa till en annan resa](/help/building-a-journey/jumping-to-another-journey.md)**
-   *Läs om hur du kan flytta enskilda personer från en resa till en annan.*
+  *Läs om hur du kan flytta enskilda personer från en resa till en annan.*
 
 </div>
 
