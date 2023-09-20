@@ -1,7 +1,7 @@
 ---
 title: Konfigurera direktuppspelningshändelser för Adobe Journey Orchestration
 description: Lär dig hur du konfigurerar XDM-scheman och datauppsättningar för Journey Orchestration-händelser, definierar en händelse i Journey Orchestration och konfigurerar källsystem för att streama händelser.
-feature: Data Sources, Events, Schemas
+feature: Data Sources, Events
 topics: Events
 jira: KT-3731
 thumbnail: 29338.jpg
@@ -10,7 +10,7 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
+source-git-commit: 99bdf8ca7288db3a33831b67fd954686f8f18673
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 27%
@@ -19,7 +19,7 @@ ht-degree: 27%
 
 # Konfigurera direktuppspelningshändelser
 
-[!UICONTROL Journey Orchestration] lyssnar på händelser och ordnar de bästa nästa åtgärderna inom kundresan baserat på dessa händelser. En händelse kan relatera till:
+[!UICONTROL Journey Orchestration] lyssnar på händelser och ordnar de bästa nästa åtgärderna inom kundresan baserat på dessa händelser. En händelse kan gälla:
 
 * en persons direkta åtgärder (t.ex. att de har köpt en produkt, besökt en butik eller övergett en kundvagn), eller
 * Något som hände och som är kopplat till personen (de har till exempel nått 10 000 poäng för lojalitet)
@@ -32,7 +32,7 @@ ht-degree: 27%
 >
 >* [Experience Data Model (XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=sv)
 >* [Skapa XDM-scheman för Experience Events](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=sv)
->* [Inmatning av strömmande data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en)
+>* [Direktuppspelad datainmatning](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en)
 >
 >Om du vill veta mer om de exempel som används i videon bör du också bekanta dig med följande Adobe Experience Platform-tjänster:
 >
