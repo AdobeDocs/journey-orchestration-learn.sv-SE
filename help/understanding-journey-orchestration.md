@@ -10,10 +10,10 @@ doc-type: video
 activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
-source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
+source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 100%
+source-wordcount: '325'
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ I videon nedan introduceras
 * De typer av användningsfall som kan användas
 * De viktigaste elementen i hur [!UICONTROL Journey Orchestration] fungerar
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?learn=on){trancript=true}
 
 ## Så här konfigurerar du en resa
 

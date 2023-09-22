@@ -10,9 +10,9 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 3f9db9f2a83a628b8f48728da48e801dc67c9e84
+source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '248'
 ht-degree: 27%
 
 ---
@@ -47,6 +47,6 @@ I följande video förklaras hur du gör:
 * Definiera en händelse i [!UICONTROL Journey Orchestration]
 * Konfigurera källsystem för att strömma händelser
 
->[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29338?learn=on){trancript=true}
 
 Mer information finns i [Om händelser](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) i produktdokumentationen.
