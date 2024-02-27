@@ -5,9 +5,9 @@ products: Journey orchestration
 feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
+source-git-commit: fd7c346c9159ec2646a0887781574a32bba08a7a
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '174'
 ht-degree: 98%
 
 ---
@@ -15,16 +15,6 @@ ht-degree: 98%
 # Självstudiekurser för Journey Orchestration
 
 [!UICONTROL Journey Orchestration] är en programtjänst som är integrerad i Adobe Experience Platform. Det låter dig skapa orkestrering i realtid med hjälp av kontextuella data som lagras i händelser eller datakällor.
-
-<div id="whats-new-section">
-
-## Nyheter
-
-* **[Uppdatera profilåtgärd](/help/building-a-journey/update-profile-action.md)**
-* **[Hoppa till en annan resa](/help/building-a-journey/jumping-to-another-journey.md)**
-  *Läs om hur du kan flytta enskilda personer från en resa till en annan.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -49,7 +39,7 @@ ht-degree: 98%
     </a>
     </div>
     <p>
-    <em>Förstå konceptet Journey Orchestration, de typer av användningsfall som det möjliggör och de viktigaste elementen för hur Journey Orchestration fungerar.</em>
+    <em>Förstå konceptet Journey Orchestration, de typer av användningsfall som den möjliggör och de viktigaste elementen i hur Journey Orchestration fungerar.</em>
     <p>
   </td>
   <td>
@@ -75,7 +65,7 @@ ht-degree: 98%
     </a>
     </div>
     <p>
-    <em>Läs om hur du går till rapportering för resan, hur du anpassar datumintervall för din rapport samt sparar en rapportmall för framtida bruk. </em>
+    <em>Läs om hur du navigerar till rapportering för resan, hur du anpassar datumintervall för din rapport samt sparar en rapportmall för framtida bruk. </em>
     <p>
   </td>
 </tr>
