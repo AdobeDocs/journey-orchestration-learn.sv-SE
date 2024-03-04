@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-lear
 getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 auto-video-transcripts: true
-source-git-commit: 12630c19ad7c276935d5a5043ffb1310106d5019
+source-git-commit: 5781e279d59d181619345f2873302479b6c28a84
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # Självstudiekurser om Journey Orchestration {#tutorials}
 
-+ [Översikt](/help/overview.md)
++ [Självstudiekurser om Journey Orchestration](/help/overview.md)
 + [Förstå Journey Orchestration](/help/understanding-journey-orchestration.md)
 + [Konfigurera direktuppspelningshändelser](/help/configuring-journey-orchestration/configure-streaming-events.md)
 + [Använda segment med kvalificeringshändelser](/help/using-segment-qualification-events.md)
