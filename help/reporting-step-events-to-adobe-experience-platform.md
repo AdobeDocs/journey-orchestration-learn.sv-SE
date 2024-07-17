@@ -12,8 +12,8 @@ role: User, Admin
 exl-id: 1ce7909e-173b-46f4-b20c-e6b5bfcb9d2c
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 20%
+source-wordcount: '51'
+ht-degree: 27%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 20%
 
 Förstå vilka steg i kundresan som händelser och datagrafter är och hur ni utforskar dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/36636?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36636?learn=on){transcript=true}
 
-Se [Översikt över delning av resesteg](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) för mer information.
+Mer information finns i [Översikt över delning av resesteg](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en).

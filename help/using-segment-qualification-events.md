@@ -12,8 +12,8 @@ role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 47%
+source-wordcount: '128'
+ht-degree: 53%
 
 ---
 
@@ -28,6 +28,6 @@ Exempel på användningsfall kan vara:
 
 Den här videon ger dig en kort introduktion om var du konfigurerar ett segment och hur du konfigurerar ett segment med kvalificeringshändelse under en resa.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37901?learn=on){transcript=true}
 
 Mer information finns i [Segmentkvalificeringshändelser](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).
